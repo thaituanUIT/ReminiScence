@@ -92,6 +92,8 @@ Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập t
 
 - [MongoDB Server](https://www.mongodb.com/)
 - [NodeJS, Npm (Node Package Manager)](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
+- [Node Version Manager (NVM)](https://github.com/nvm-sh/nvm)
 - [Git, Github](https://git-scm.com/)
 
 ### ⚙ Cài đặt
