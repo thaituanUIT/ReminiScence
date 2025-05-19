@@ -66,15 +66,15 @@ Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập t
 
 - Backend, Database
 
-  - Nodejs, ExpressJS, RESTFul APIs.
+  - Nodejs 14.21.3 (npm 6.14.18), ExpressJS, RESTFul APIs.
   - MongoDB, MongooseJS.
   - JWT (JSON Web Token).
   - Nodemailer.
   - Passport (Google Token, Facebook token).
 
-- Frontend
+- Frontend (Được list bên trong package.json)
 
-  - ReactJS, React Hook, Material UI Library.
+  - ReactJS, React Hook, Material UI Library (Version 4).
   - Axios RESTFul API, query string.
   - React Hook Form, Yup.
   - Redux, react-redux, Reudx-toolkit.
@@ -99,13 +99,13 @@ Dynonary cũng là một `Pet Project` giúp tôi ôn luyện kỹ năng lập t
 1. Clone project này
 
 ```
-  git clone https://github.com/TuanNguyen2504/dynonary-english
+  git clone https://github.com/thaituanUIT/ReminiScence
 ```
 
 2. Cài đặt thư viện ở Backend, Frontend
 
 ```
-  npm install (hoặc yarn install)
+  npm install --legacy-peer-deps/--force (hoặc yarn install --legacy-peer-deps/--force)
 ```
 
 3. Thay thế file .local.env thành file .env và cập nhật thông tin.
